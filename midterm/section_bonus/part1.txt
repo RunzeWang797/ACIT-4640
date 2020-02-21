@@ -1,0 +1,9 @@
+1.what programming language is used in the application?
+	javascript
+2.On which port does the application service listen for incoming request?
+	12980
+3. which module is used to handle HTTP requests in the application?
+	
+4. which user is running the application?
+	hichat
+5.where are the static files located?
